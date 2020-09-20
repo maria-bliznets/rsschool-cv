@@ -27,4 +27,4 @@
 + course of https://study.inordic.ru/ 
 + learning "https://www.youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g" 
 + "https://htmlacademy.ru/"
-8.**B1-B2**, learning course of "*business English*" currently
+8.**B1+-B2**, learning course of "*business English*" currently
