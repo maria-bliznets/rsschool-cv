@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    background: #e1e1e1;
+}
+
+main {
+    background: #e1e1e1;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portfolio {
+    background: white;
+    width: 90%;
+    height: 90%;
+    display: flex;
+    border-radius: 60px;
+    box-shadow: -7px 4px 20px 5px #5f5456;
+}
+
+.portfolio-left {
+    background: orange;
+    width: 40%;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 60px 0 0 60px;
+}
+
+.portfolio-right {
+    background: white;
+    width: 60%;
+    padding: 40px;
+    border-radius: 0 60px 60px 0;
+}
+
+.general {
+    color: white;
+}
+
+.general-name {
+    font-size: 30px;
+    font-family: Georgia;
+}
+
+.general-about {
+    font-size: 15px;
+    font-family: 'Times New Roman';
+}
+
+.about_me {
+    font-size: 35px;
+    font-family: arial;
+}
+
+.items {
+    margin-top: 20px;
+    border-bottom: 4px solid orange;
+}
+
+h3 {
+    margin-bottom: 7px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+
+.user-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 4px solid white;
+    object-fit: cover;
+    object-position: 0px -17px;
+}
+
+.portfolio-left p {
+    display: none;
+}
+
+header {
+    background: #FFCC33;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 0 60px 60px;
+}
+
+footer {
+    background: #FFCC33;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 60px 60px 0 0;
+}
